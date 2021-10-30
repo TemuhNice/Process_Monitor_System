@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="bgs">
+    <file>Backg.jpg</file>
+  </qresource>
+</RCC>
